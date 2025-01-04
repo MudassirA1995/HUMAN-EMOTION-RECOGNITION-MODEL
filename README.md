@@ -351,6 +351,11 @@ sys.exit(app.exec_()): Starts the application's event loop and exits when the lo
 ## Application View 
 
 
+![App Screen Shot](https://github.com/user-attachments/assets/848e1836-f4b2-41f7-992a-e18266e69a48)
+
+
+
+
 
 
 
